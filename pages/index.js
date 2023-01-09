@@ -250,7 +250,7 @@ closeButton.addEventListener("click", function() {
                     href="https://www.reclameaqui.com.br/empresa/startpee/"
                     className="home-link13"
                   >
-                    Reclame aqui
+                    Politica de privacidade
                   </a>
                   <a
                     href="https://api.whatsapp.com/send?phone=55119967272695"
